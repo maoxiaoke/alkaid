@@ -31,5 +31,8 @@
     "@alkaid/utils": "^1.0.2",
     "commander": "^3.0.2"
   },
-  "gitHead": "0e2cedd709bd7ffeecd8a6df260e003dd3cbcdcb"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "036c5c8062b79c55c4076857e6d2f1255a918dfa"
 }
