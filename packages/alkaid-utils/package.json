@@ -1,5 +1,5 @@
 {
-  "name": "@alkaid/utils",
+  "name": "@xkmao/alkaid-utils",
   "version": "1.0.8",
   "description": "alkaid utils",
   "keywords": [
@@ -30,5 +30,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "da4fbd78bb5ba98b1139ac866236266a9e9b8bf0"
+  "gitHead": "5df8f57dd84f6ff6753c4202813d51cb1d617d66"
 }

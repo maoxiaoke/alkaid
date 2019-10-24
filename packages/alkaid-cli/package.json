@@ -1,5 +1,5 @@
 {
-  "name": "@alkaid/cli",
+  "name": "@xkmao/alkaid-cli",
   "version": "1.0.8",
   "description": "alkaid cli",
   "bin": {
@@ -28,11 +28,11 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@alkaid/utils": "^1.0.8",
+    "@xkmao/alkaid-utils": "^1.0.8",
     "commander": "^3.0.2"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7d66633f18697b397b31fec9d74989453547300b"
+  "gitHead": "5df8f57dd84f6ff6753c4202813d51cb1d617d66"
 }
