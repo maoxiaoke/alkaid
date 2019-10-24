@@ -1,6 +1,6 @@
 {
   "name": "@alkaid/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "alkaid cli",
   "bin": {
     "alkaid": "bin/cli"
@@ -28,7 +28,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@alkaid/utils": "^1.0.0",
+    "@alkaid/utils": "^1.0.2",
     "commander": "^3.0.2"
   },
   "gitHead": "0e2cedd709bd7ffeecd8a6df260e003dd3cbcdcb"
