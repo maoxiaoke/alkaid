@@ -1,6 +1,6 @@
 {
   "name": "@xkmao/alkaid-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "alkaid cli",
   "bin": {
     "alkaid": "bin/cli"
@@ -28,7 +28,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xkmao/alkaid-utils": "^1.0.8",
+    "@xkmao/alkaid-utils": "^1.0.9",
     "commander": "^3.0.2"
   },
   "publishConfig": {
