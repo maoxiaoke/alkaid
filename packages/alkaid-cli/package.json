@@ -1,0 +1,34 @@
+{
+  "name": "@alkaid/cli",
+  "version": "1.0.0",
+  "description": "alkaid cli",
+  "bin": {
+    "alkaid": "bin/cli"
+  },
+  "keywords": [
+    "alkaid",
+    "cli"
+  ],
+  "author": "maoxiaoke <qiangqiang.mqq@alibaba-inc.com>",
+  "homepage": "http://xx",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "xx"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@alkaid/utils": "^1.0.0",
+    "commander": "^3.0.2"
+  }
+}

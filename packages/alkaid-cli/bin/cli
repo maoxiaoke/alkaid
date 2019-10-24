@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+
+const program = require('commander')
+const pkg = require('../package.json')
+
+program.version(pkg.version)
+  .description(pkg.description)
+  .usage('[options] <command> [...]')
+  .option('-t, --test', 'test')
+
+program.parse(process.argv)
+
+if (!program.args.filter(arg => typeof arg === 'object').length) {
+  program.help()
+}
