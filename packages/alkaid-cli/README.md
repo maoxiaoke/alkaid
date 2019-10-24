@@ -1,6 +1,7 @@
 # `alkaid-cli`
 
 > TODO: description
+> ok
 
 ## Usage
 
