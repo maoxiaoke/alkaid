@@ -1,6 +1,6 @@
 {
   "name": "@alkaid/cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "alkaid cli",
   "bin": {
     "alkaid": "bin/cli"
@@ -28,7 +28,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@alkaid/utils": "^1.0.5",
+    "@alkaid/utils": "^1.0.6",
     "commander": "^3.0.2"
   },
   "publishConfig": {
