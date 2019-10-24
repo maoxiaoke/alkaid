@@ -1,6 +1,6 @@
 {
   "name": "@alkaid/utils",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "alkaid utils",
   "keywords": [
     "alkaid",
@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "commander": "^3.0.2"
-  }
+  },
+  "gitHead": "90e1c85bed8bd2fc3f5ec4b8d53f70bfb5a00ac9"
 }

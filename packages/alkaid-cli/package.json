@@ -1,6 +1,6 @@
 {
   "name": "@alkaid/cli",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "alkaid cli",
   "bin": {
     "alkaid": "bin/cli"
@@ -30,5 +30,6 @@
   "dependencies": {
     "@alkaid/utils": "^1.0.0",
     "commander": "^3.0.2"
-  }
+  },
+  "gitHead": "90e1c85bed8bd2fc3f5ec4b8d53f70bfb5a00ac9"
 }
